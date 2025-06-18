@@ -5,6 +5,11 @@
     <string name="mhs3">Olip</string>
     <string name="mhs4">Dava</string>
     <string name="mhs5">Joko</string>
-
-
+    <string name="email_mhs1">mahasiswa1@example.com</string>
+    <string name="email_mhs2">mahasiswa2@example.com</string>
+    <string name="email_mhs3">mahasiswa3@example.com</string>
+    <string name="email_mhs4">mahasiswa4@example.com</string>
+    <string name="email_mhs5">mahasiswa5@example.com</string>
+    <string name="description">Description</string>
+    <string name="email">Email</string>
 </resources>
